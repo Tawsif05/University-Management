@@ -1,0 +1,26 @@
+
+1.Beginning:
+At the beginning there will be a login page.
+there is an Admin panel where Admin can add courses,students and faculties.
+Admin ID: Admin
+Admin pass:nsu123
+
+2.Admin Panel:
+2.1.after adding any student or faculty,that student or faculty can signup using their given ID from Admin.Student or faculty will get a confirmation e-mail if all the information is correct in the SIGNUP form.
+
+3.after getting the confirmation message student or faculty can LOGIN to the system.
+(each time they login a email will be sent to their e-mail) 
+
+4.Student Page:
+4.1.Student can add course and also choose his/her favourite faculty.
+4.2.Student can view his/her all information in the student page.
+4.3.they can see their assigned course,attendance and grade(if it is given from faculty).
+4.4.student can drop their courses whenever they want to.
+
+5.Faculty Page:
+5.1.Faculty can choose courses as his/her want.
+5.2.Faculty can see his/her all information on the page.
+5.3.Faculty can see the details of a course.
+5.4.Attendance & Grade Submission can be assigned by faculty.
+5.5.attendance & Grade submission will work if faculty choose a perticular student.
+5.6.**for grade submission faculty MUST select Present and update the info**
